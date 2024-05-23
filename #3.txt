@@ -1,0 +1,9 @@
+feat: Add user authentication feature
+
+이 커밋은 사용자 인증 기능을 추가합니다.
+- 사용자 로그인 페이지 구현
+- 백엔드에서 사용자 인증 처리
+- JWT 토큰 발급 및 관리
+- 인증 미들웨어 추가
+
+Close issue #1
